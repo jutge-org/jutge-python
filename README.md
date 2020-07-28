@@ -1,3 +1,10 @@
+# Note
+
+This package is deprecated and will be deleted on September 2021.
+
+Please use the [easyinput](https://github.com/jutge-org/easyinput) package.
+
+
 # The `jutge` package
 
 ![Logo](logo.png)
